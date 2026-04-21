@@ -1,0 +1,714 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\data\\visitorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:data\\visitorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\controllers\\visitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:controllers\\visitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\controllers\\roombookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:controllers\\roombookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\data\\roombookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:data\\roombookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\models\\roombookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:models\\roombookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\controllers\\complaintcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:controllers\\complaintcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\controllers\\studentattendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:controllers\\studentattendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\data\\studentattendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:data\\studentattendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\data\\complaintrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:data\\complaintrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\models\\studentattendancemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:models\\studentattendancemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\models\\complaintmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:models\\complaintmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\data\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:data\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\models\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:models\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\data\\userviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:data\\userviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\controllers\\userviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:controllers\\userviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\data\\feesviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:data\\feesviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\controllers\\feesviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:controllers\\feesviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\models\\feesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:models\\feesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\models\\roomdropdownmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:models\\roomdropdownmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\models\\studentdropdownmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:models\\studentdropdownmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\data\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:data\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\models\\roommodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:models\\roommodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\models\\visitormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:models\\visitormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\controllers\\wardencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:controllers\\wardencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\data\\wardenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:data\\wardenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\models\\wardenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:models\\wardenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\hostel_2026.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:hostel_2026.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\controllers\\feescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:controllers\\feescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\models\\feesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:models\\feesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\data\\feesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:data\\feesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\data\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:data\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|c:\\users\\jadav\\source\\repos\\hostel_2026\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F40C7-9BA2-4C36-BAA8-82EEA2DF5F08}|Hostel_2026.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 43,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoomBookingController.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Controllers\\RoomBookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoomBookingController.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Controllers\\RoomBookingController.cs",
+              "RelativeToolTip": "Controllers\\RoomBookingController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T03:49:34.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Data\\RoomBookingRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RoomBookingRepository.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Data\\RoomBookingRepository.cs",
+              "RelativeToolTip": "Data\\RoomBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T03:49:16.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoomBookingModel.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Models\\RoomBookingModel.cs",
+              "RelativeDocumentMoniker": "Models\\RoomBookingModel.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Models\\RoomBookingModel.cs",
+              "RelativeToolTip": "Models\\RoomBookingModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T03:47:29.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ComplaintController.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Controllers\\ComplaintController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ComplaintController.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Controllers\\ComplaintController.cs",
+              "RelativeToolTip": "Controllers\\ComplaintController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T08:50:37.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentAttendanceController.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Controllers\\StudentAttendanceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentAttendanceController.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Controllers\\StudentAttendanceController.cs",
+              "RelativeToolTip": "Controllers\\StudentAttendanceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T08:50:13.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentAttendanceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Data\\StudentAttendanceRepository.cs",
+              "RelativeDocumentMoniker": "Data\\StudentAttendanceRepository.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Data\\StudentAttendanceRepository.cs",
+              "RelativeToolTip": "Data\\StudentAttendanceRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABcAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T08:34:25.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ComplaintRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Data\\ComplaintRepository.cs",
+              "RelativeDocumentMoniker": "Data\\ComplaintRepository.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Data\\ComplaintRepository.cs",
+              "RelativeToolTip": "Data\\ComplaintRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T08:33:49.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentAttendanceModel.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Models\\StudentAttendanceModel.cs",
+              "RelativeDocumentMoniker": "Models\\StudentAttendanceModel.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Models\\StudentAttendanceModel.cs",
+              "RelativeToolTip": "Models\\StudentAttendanceModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T08:29:53.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ComplaintModel.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Models\\ComplaintModel.cs",
+              "RelativeDocumentMoniker": "Models\\ComplaintModel.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Models\\ComplaintModel.cs",
+              "RelativeToolTip": "Models\\ComplaintModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T08:28:10.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwE4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T03:08:45.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Data\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "Data\\AdminRepository.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Data\\AdminRepository.cs",
+              "RelativeToolTip": "Data\\AdminRepository.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAAIkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T03:08:16.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminModel.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Models\\AdminModel.cs",
+              "RelativeDocumentMoniker": "Models\\AdminModel.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Models\\AdminModel.cs",
+              "RelativeToolTip": "Models\\AdminModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T03:07:01.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserViewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Data\\UserViewRepository.cs",
+              "RelativeDocumentMoniker": "Data\\UserViewRepository.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Data\\UserViewRepository.cs",
+              "RelativeToolTip": "Data\\UserViewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T03:01:41.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserViewController.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Controllers\\UserViewController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserViewController.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Controllers\\UserViewController.cs",
+              "RelativeToolTip": "Controllers\\UserViewController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T03:01:00.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T02:42:25.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T07:37:04.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Data\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Data\\UserRepository.cs",
+              "RelativeToolTip": "Data\\UserRepository.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowEQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T07:33:07.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T07:22:41.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FeesViewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Data\\FeesViewRepository.cs",
+              "RelativeDocumentMoniker": "Data\\FeesViewRepository.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Data\\FeesViewRepository.cs",
+              "RelativeToolTip": "Data\\FeesViewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T02:35:10.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FeesViewController.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Controllers\\FeesViewController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FeesViewController.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Controllers\\FeesViewController.cs",
+              "RelativeToolTip": "Controllers\\FeesViewController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T02:26:18.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FeesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Models\\FeesViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\FeesViewModel.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Models\\FeesViewModel.cs",
+              "RelativeToolTip": "Models\\FeesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T08:18:04.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RoomDropdownModel.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Models\\RoomDropdownModel.cs",
+              "RelativeDocumentMoniker": "Models\\RoomDropdownModel.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Models\\RoomDropdownModel.cs",
+              "RelativeToolTip": "Models\\RoomDropdownModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T07:41:57.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StudentDropdownModel.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Models\\StudentDropdownModel.cs",
+              "RelativeDocumentMoniker": "Models\\StudentDropdownModel.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Models\\StudentDropdownModel.cs",
+              "RelativeToolTip": "Models\\StudentDropdownModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T07:41:01.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoomController.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "Controllers\\RoomController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAkwEgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T03:57:13.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Data\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RoomRepository.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Data\\RoomRepository.cs",
+              "RelativeToolTip": "Data\\RoomRepository.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAkwKkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T03:56:51.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RoomModel.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Models\\RoomModel.cs",
+              "RelativeDocumentMoniker": "Models\\RoomModel.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Models\\RoomModel.cs",
+              "RelativeToolTip": "Models\\RoomModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T03:56:23.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VisitorController.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Controllers\\VisitorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VisitorController.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Controllers\\VisitorController.cs",
+              "RelativeToolTip": "Controllers\\VisitorController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAkwFQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T09:44:56.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VisitorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Data\\VisitorRepository.cs",
+              "RelativeDocumentMoniker": "Data\\VisitorRepository.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Data\\VisitorRepository.cs",
+              "RelativeToolTip": "Data\\VisitorRepository.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAkwJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T09:44:19.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "VisitorModel.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Models\\VisitorModel.cs",
+              "RelativeDocumentMoniker": "Models\\VisitorModel.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Models\\VisitorModel.cs",
+              "RelativeToolTip": "Models\\VisitorModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T09:43:49.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WardenController.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Controllers\\WardenController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WardenController.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Controllers\\WardenController.cs",
+              "RelativeToolTip": "Controllers\\WardenController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAEcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T08:42:15.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WardenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Data\\WardenRepository.cs",
+              "RelativeDocumentMoniker": "Data\\WardenRepository.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Data\\WardenRepository.cs",
+              "RelativeToolTip": "Data\\WardenRepository.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T08:38:22.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "WardenModel.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Models\\WardenModel.cs",
+              "RelativeDocumentMoniker": "Models\\WardenModel.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Models\\WardenModel.cs",
+              "RelativeToolTip": "Models\\WardenModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T08:36:43.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Hostel_2026.http",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Hostel_2026.http",
+              "RelativeDocumentMoniker": "Hostel_2026.http",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Hostel_2026.http",
+              "RelativeToolTip": "Hostel_2026.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-02-06T05:13:05.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "Models\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Models\\StudentModel.cs",
+              "RelativeToolTip": "Models\\StudentModel.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T06:19:35.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FeesController.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Controllers\\FeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FeesController.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Controllers\\FeesController.cs",
+              "RelativeToolTip": "Controllers\\FeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T03:12:26.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FeesModel.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Models\\FeesModel.cs",
+              "RelativeDocumentMoniker": "Models\\FeesModel.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Models\\FeesModel.cs",
+              "RelativeToolTip": "Models\\FeesModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T05:56:07.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FeesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Data\\FeesRepository.cs",
+              "RelativeDocumentMoniker": "Data\\FeesRepository.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Data\\FeesRepository.cs",
+              "RelativeToolTip": "Data\\FeesRepository.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAGcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T05:56:04.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-03T04:49:18.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T03:23:48.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Data\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Data\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Data\\StudentRepository.cs",
+              "RelativeToolTip": "Data\\StudentRepository.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAA5wK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T07:47:29.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\jadav\\source\\repos\\Hostel_2026\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T04:13:52.452Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 111,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
