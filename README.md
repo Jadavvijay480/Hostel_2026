@@ -47,3 +47,8 @@ Update appsettings.json:
 
 ## 👨‍💻 Author
 Vijaykumar Jadav
+
+## Screenshote
+<img width="1920" height="1080" alt="Screenshot 2026-04-22 074240" src="https://github.com/user-attachments/assets/7b7a7a24-1d87-4da7-8793-499053d61f0e" />
+
+
